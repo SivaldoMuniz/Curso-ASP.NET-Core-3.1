@@ -3,11 +3,11 @@
 ## Descrição do Projeto
 <p align="justify" Projeto do curso da Udemy</P
 
-         Ação       |     Comando  
- -------------------|----------------
-  criar uma pasta   |   md nome
-  criar um projeto  |  dotnet new tipo projeto
-  Criar uma Solution| dotnet new--name Nome
+ |        Ação      |     Comando  |
+ |---|---|
+ |criar uma pasta   |   md nome    |
+ | criar um projeto |  dotnet new t|
+ |Criar uma Solution| dotnet new--e|
   
 	
 	
