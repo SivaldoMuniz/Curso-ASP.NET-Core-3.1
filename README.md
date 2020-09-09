@@ -1,7 +1,5 @@
 # Curso-ASP.NET-Core-3.1
-<h1 align="center">Curso-ASP.NET-Core-3.1</h1>
-## Descrição do Projeto
-<p align="justify" Projeto do curso da Udemy</p>
+##Curso-ASP.NET-Core-3.1
 **Esse texto está em negrito**
 
 | Primeiro cabeçalho  |  Segundo cabeçalho  |
