@@ -1,8 +1,10 @@
 # Curso-ASP.NET-Core-3.1
-##Curso-ASP.NET-Core-3.1
-**Esse texto está em negrito**
 
-| Primeiro cabeçalho  |  Segundo cabeçalho  |
+
+
+| AÇÃO | COMANDO  |
 | ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |
+|  Criar uma pasta no C:- |  md curso_Api_netcore |
+| Criar um projeto MVC   |  dotnet new mvc |
+| Criar uma solution | dotnet new --name <<NOME>>|
+  |Criar uma Application | dotnet new webapi -n application -o Api.Application --no-https|
