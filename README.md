@@ -7,4 +7,5 @@
 |  Criar uma pasta no C:- |  md curso_Api_netcore |
 | Criar um projeto MVC   |  dotnet new mvc |
 | Criar uma solution | dotnet new --name <<NOME>>|
-  |Criar uma Application | dotnet new webapi -n application -o Api.Application --no-https|
+|Criar uma Application | dotnet new webapi -n application -o Api.Application --no-https|
+|                         |                        |
