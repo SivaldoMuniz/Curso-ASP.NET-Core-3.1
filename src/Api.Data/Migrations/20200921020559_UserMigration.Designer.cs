@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Data.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20200912033536_UserMigration")]
+    [Migration("20200921020559_UserMigration")]
     partial class UserMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -46,6 +46,16 @@ namespace Data.Migrations
                         .IsUnique();
 
                     b.ToTable("User");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("5ca8765c-dee5-4967-9505-62258f82bfd2"),
+                            CreateAt = new DateTime(2020, 9, 20, 23, 5, 59, 120, DateTimeKind.Local).AddTicks(8807),
+                            Email = "simol@mail.com",
+                            Name = "Administrador",
+                            UpdateAt = new DateTime(2020, 9, 20, 23, 5, 59, 122, DateTimeKind.Local).AddTicks(1017)
+                        });
                 });
 #pragma warning restore 612, 618
         }

@@ -3,10 +3,7 @@ C:\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoI
 C:\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
 C:\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
-C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
-C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
 C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
 C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
 C:\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
 C:\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
-C:\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
